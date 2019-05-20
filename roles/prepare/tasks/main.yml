@@ -2,5 +2,5 @@
 - name: Copy install scripts
   copy:
     src: scripts
-    dest: /root/scripts
+    dest: /root
     mode: '0755'
