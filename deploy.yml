@@ -1,0 +1,5 @@
+---
+- name: Deploy software
+  hosts: all
+  roles:
+    - prepare
